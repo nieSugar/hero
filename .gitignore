@@ -1,0 +1,27 @@
+# Cocos Creator generated cache
+library/
+local/
+temp/
+build/
+profiles/
+
+# Legacy Godot generated cache
+.godot/
+*.translation
+
+# Local export/build output
+exports/
+builds/
+*.pck
+*.zip
+*.apk
+*.aab
+*.ipa
+*.exe
+*.dmg
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

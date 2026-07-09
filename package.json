@@ -1,0 +1,10 @@
+{
+  "name": "aura-survivor-cocos",
+  "uuid": "01f75f13-76fb-4f59-9d4d-a01c04da3e6a",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Aura Survivor MVP migrated to Cocos Creator.",
+  "creator": {
+    "version": "3.8.8"
+  }
+}
