@@ -1,0 +1,13 @@
+{
+  "platform": "android",
+  "packages": {
+    "android": {
+      "orientation": {
+        "landscapeRight": true,
+        "landscapeLeft": true,
+        "portrait": false,
+        "upsideDown": false
+      }
+    }
+  }
+}
